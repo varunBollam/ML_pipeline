@@ -1,0 +1,10 @@
+.env/*
+.vnev/*
+.idea
+venv/
+vnev/
+*.egg-info
+logs/*
+*.log
+*.pyc
+Credential.md
